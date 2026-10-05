@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Welcome to my analytics garage, where I store my projetcs and analyses. My dog is Baogi, she said Hi~
 <!--
 **yuxuanisatwork/yuxuanisatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
